@@ -1,9 +1,31 @@
-.navbar{
-    display: inline;
+header {
+    border-bottom: 1px solid #D8D8D8;
+    box-shadow: 0 5px 5px -5px rgba(0, 0 ,0, .5);
 }
-.navbar-logo{
-    display: inline-block;
+.navbar {
+    display: flex;
+    align-items: center;
 }
-.navbar-menu{
+.navbar-logo {
     display: inline-block;
+    margin-top: 0.93rem;
+}
+.navbar-menu {
+    display: inline-block;
+    margin: 1.93rem 0 2.21rem 1.85rem;
+}
+.navbar-menu__item {
+    margin-right: 1.87rem;
+    text-decoration: none;
+    font-size: 14px;
+    color: #1D2F38;
+}
+.navbar-menu__item:last-child {
+    margin-right: 0;
+}
+.navbar-menu__pic {
+    width: 1.18rem;
+    height: 1.06rem;
+    padding-right: 0.75rem;
+    
 }
