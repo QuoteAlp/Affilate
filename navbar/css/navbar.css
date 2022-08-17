@@ -1,0 +1,9 @@
+.navbar{
+    display: inline;
+}
+.navbar-logo{
+    display: inline-block;
+}
+.navbar-menu{
+    display: inline-block;
+}
