@@ -4,7 +4,7 @@ header {
 }
 .navbar {
     display: flex;
-    align-items: center;
+    justify-content: space-around;
 }
 .navbar-logo {
     display: inline-block;
@@ -12,7 +12,7 @@ header {
 }
 .navbar-menu {
     display: inline-block;
-    margin: 1.93rem 0 2.21rem 1.85rem;
+    margin: 0.51rem 0 0 0;
 }
 .navbar-menu__item {
     margin-right: 1.87rem;
@@ -27,5 +27,16 @@ header {
     width: 1.18rem;
     height: 1.06rem;
     padding-right: 0.75rem;
-    
+}
+.navbar-mail{
+    cursor: pointer;
+    margin: 0.51rem 0 0 18.37rem;
+    align-items: center;
+}
+.navbar-mail__link{
+    text-decoration: none;
+    font-size: 14px;
+    color: #1D2F38;
+    padding-left: 0.75rem;
+    display: inline-block;
 }
