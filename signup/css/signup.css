@@ -1,0 +1,73 @@
+.signup__bg {
+    display: flex;
+    flex-direction: row;
+    border-radius: 0.62rem;
+    margin-top: 6.23rem;
+    background-image: url(../img/reviews__bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.signup-bg__img {
+    margin: 3.12rem 3.12rem 3.12rem 3.12rem;
+}
+.signup-bg__signup {
+    max-width: 31.25rem;
+    margin-top: 3.14rem;
+}
+.signup-bg-signup__min {
+    float: left;
+    margin-right: 0.62rem;
+}
+.signup-bg-signup__header {
+    display: inline-block;
+    margin-top: 0.74rem;
+    font-family: Bitter;
+    font-size: 1.87rem;
+    font-weight: 400;
+    line-height: 2.18rem;
+    color: #1D2F38;
+}
+.signup-bg-signup__text {
+    margin-top: 1.92rem;
+    font-family: Raleway;
+    font-size: 1.12rem;
+    font-weight: 400;
+    line-height: 1.5rem;
+    color: #1D2F38;
+}
+.signup-bg-signup__input {
+    margin-top: 1.5rem;
+    width: 31.25rem;
+    height: 3.125rem;
+    border: 1px solid #AABCC5;
+    border-radius: 0.31rem;
+    padding-left: 1rem;
+}
+.signup-bg-signup__button {
+    display: inline-block;
+    margin-top: 1.93rem;
+    background-color: #FFC728;
+    border: none;
+    border-radius: 0.31rem;
+    padding: 0.93rem 1.31rem 0.93rem 1.18rem;
+    text-align: center;
+    text-decoration: none;
+    font-family: Raleway;
+    font-size: 0.75rem;
+    font-weight: 700;
+    line-height: 1.25rem;
+    color: #000000;
+    transition: linear 0.3ms;
+}
+.signup-bg-signup__button:hover {
+    background-color: #e0ab19;
+}
+.signup-bg-signup__policy {
+    margin-left: 0.62rem;
+    text-decoration: none;
+    font-family: Raleway;
+    font-size: 0.75rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    color: #536D7A;
+}
