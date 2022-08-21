@@ -31,7 +31,7 @@ header {
 }
 .navbar-mail{
     cursor: pointer;
-    margin: 1.93rem 0 0 18.37rem;
+    margin: 1.87rem 0 0 18.37rem;
     text-align: center;
 }
 .navbar-mail__link{
@@ -40,5 +40,5 @@ header {
     font-size: 14px;
     color: #1D2F38;
     padding-left: 0.75rem;
-    margin-top: 3rem;
+    margin-top: 2rem;
 }
