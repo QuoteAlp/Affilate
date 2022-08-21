@@ -4,15 +4,16 @@ header {
 }
 .navbar {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 .navbar-logo {
     display: inline-block;
     margin-top: 0.93rem;
+    margin-bottom: 0.93rem;
 }
 .navbar-menu {
     display: inline-block;
-    margin: 0.51rem 0 0 0;
+    margin: 1.93rem 0 0 1.87rem;
 }
 .navbar-menu__item {
     margin-right: 1.87rem;
@@ -30,13 +31,14 @@ header {
 }
 .navbar-mail{
     cursor: pointer;
-    margin: 0.51rem 0 0 18.37rem;
-    align-items: center;
+    margin: 1.93rem 0 0 18.37rem;
+    text-align: center;
 }
 .navbar-mail__link{
+    display: inline-block;
     text-decoration: none;
     font-size: 14px;
     color: #1D2F38;
     padding-left: 0.75rem;
-    display: inline-block;
+    margin-top: 3rem;
 }
