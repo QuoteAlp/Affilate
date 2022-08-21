@@ -1,0 +1,66 @@
+.reviews__content {
+    margin-top: 6.06rem;
+}
+.reviews__header {
+    font-family: Bitter;
+    font-size: 2.37rem;
+    font-weight: 400;
+    line-height: 2.5rem;
+    color: #1D2F38;
+}
+.reviews__frame-container {
+    display: flex;
+    flex-direction: row;
+    margin-top: 2.06rem;
+}
+.reviews__frame {
+    width: 22.31rem;
+    height: 23.18rem;
+    background-color: #F5F5F5;
+    margin-right: 2.5rem;
+}
+.reviews__frame:last-child {
+    margin-right: 0;
+}
+.reviews-frame-img__description {
+    display: inline-block;
+    position: relative;
+    bottom: 11.56rem;
+    left: 1.56rem;
+    font-family: Raleway;
+    font-size: 0.75rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    color: #ffffff;
+    background-color: #1D2F38CC;
+    opacity: 80%;
+    border: none;
+    border-radius: 0.31rem;
+    padding: 0.31rem 0.62rem 0.31rem 0.62rem;
+    text-align: center;
+}
+.reviews-frame__header {
+    font-family: Bitter;
+    font-size: 1.87rem;
+    font-weight: 400;
+    line-height: 2.18rem;
+    color: #1D2F38;
+    margin-left: 1.56rem;
+}
+.reviews-frame__text {
+    margin: 0.81rem 2.041rem 0 1.56rem;
+    font-family: Raleway;
+    font-size: 0.93rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    color: #1D2F38;
+}
+.reviews__blog {
+    margin-top: 2.48rem;
+    cursor: pointer;
+    font-family: Raleway;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    color: #1D2F38;
+}
