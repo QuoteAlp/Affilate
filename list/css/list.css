@@ -1,0 +1,41 @@
+.list__content {
+    margin-top: 6.23rem;
+}
+.list__bg {
+    background-image: url(../img/list-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.list-bg__img {
+    margin: 1.93rem 0.75rem 1.93rem 1.875rem;
+    float: left;
+}
+.list-bg__text {
+    display: inline-block;
+    font-family: Bitter;
+    font-size: 1.75rem;
+    font-weight: 400;
+    line-height: 2rem;
+    color: #1D2F38;
+    margin-top: 2.43rem;
+    margin-bottom: 2.56rem;
+}
+.list-bg__button {
+    position: relative;
+    left: 18.37rem;
+    background-color: #17A550;
+    border: none;
+    border-radius: 0.31rem;
+    padding: 0.93rem 0.93rem 0.93rem 0.93rem;
+    text-align: center;
+    text-decoration: none;
+    font-family: Raleway;
+    font-size: 0.93rem;
+    font-weight: 400;
+    line-height: 1.37rem;
+    color: #ffffff;
+    transition: linear 0.3ms;
+}
+.list-bg__button:hover {
+    background-color: #1a7e42cc;
+}
