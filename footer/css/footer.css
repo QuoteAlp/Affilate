@@ -1,0 +1,118 @@
+.bg__color {
+    margin-top: 6.25rem;
+    background-color: #F7F9FA;
+}
+.footer-content {
+    display: flex;
+    flex-direction: row;
+}
+.footer-frame__direction {
+    flex-direction: column;
+}
+.footer-frame {
+    width: 22.29rem;
+    height: 25.37rem;
+    margin: 3.68rem 2.5rem 3.68rem 0;
+}
+.footer-frame:last-child {
+    margin-right: 0;
+}
+.footer-frame-sw {
+    margin-top: 0.68rem;
+}
+.footer-frame-text {
+    margin-top: 1.18rem;
+    font-family: Raleway;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    color: #1D2F38;
+}
+.footer-frame-text span {
+    font-weight: 700;
+}
+.footer-cell{
+    margin-top: 3.68rem;
+    margin-right: 2.5rem;
+    width: 22.29rem;
+    height: 6.25rem;
+}
+.footer-cell-header {
+    font-family: Bitter;
+    font-size: 1.87rem;
+    font-weight: 400;
+    line-height: 2.18rem;
+    color: #333333;
+}
+.footer-cell-img {
+    border-radius: 0.43rem;
+    margin: 0.75rem 0.56rem 0 0;
+}
+.footer-cell-desc--img {
+    font-family: Raleway;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.12rem;
+    color: #1D2F38;
+    display: inline-block;
+    transform: translateY(-100%);
+}
+.footer-frame-header{
+    font-family: Bitter;
+    font-size: 1.87rem;
+    font-weight: 400;
+    line-height: 2.18rem;
+    color: #333333;
+}
+.footer-frame-input{
+    margin-top: 0.81rem;
+    width: 17.12rem;
+    height: 3.12rem;
+    border: 1px solid #4b474767;
+    border-radius: 5px 0 0 5px;
+    border-right: none;
+    padding-left: 1rem;
+}
+.footer-frame-btn--search {
+    background-color: #768F9C;
+    border: none;
+    border-radius: 0 0.31rem 0.31rem 0;
+    padding: 0.93rem 0.93rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Raleway;
+    font-size: 0.93rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    color: #ffffff;
+    transition-duration: 0.5s;
+}
+.footer-frame-btn--search:hover{
+    background-color: #4f626d;
+}
+.footer-frame-nav {
+    list-style: none;
+    margin-top: 1.25rem;
+    padding-bottom: 1.68rem;
+    border-bottom: 1px solid #1D2F38;
+}
+.footer-frame-nav--item {
+    margin-top: 0.43rem;
+}
+.footer-frame-nav--link {
+    text-decoration: none;
+    font-family: Raleway;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    color: #1D2F38;
+}
+.footer-frame-copyright {
+    margin-top: 1.25rem;
+    font-family: Raleway;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    color: #1D2F38;
+}

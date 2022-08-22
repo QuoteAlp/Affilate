@@ -6,3 +6,7 @@
     font-family: Bitter;
     src: url(../fonts/BitterPro-Regular_400.ttf);
 }
+@font-face {
+    font-family: facebook;
+    src: url(../footer/img/svg/facebook.svg) format(svg);
+}
